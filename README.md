@@ -47,7 +47,7 @@ Komut satırı yorumlayıcısıdır.
 
 **git push** commit edilmiş olan dosyaların uzak sunucuya gönderilmesini sağlar.
 
-**git status** yapılan değişikliklerin durumunu (Author ve Date olarak) gösterir.
+**git status** yapılan değişikliklerin o anki durumunu gösterir.
 
 **git –version** Aldığımız versiyonları listelemek için kullanılır. Bütün versiyonları listeler.
 
